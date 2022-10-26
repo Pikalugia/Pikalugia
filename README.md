@@ -13,6 +13,7 @@
   <img align="left" alt="Pikalugia's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+
 </br>
 <p>Welcome to my Github profile! I'm Pikalugia, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Norway</b>. I'm the creator of <a href="https://www.peekio.no">Peekio</a> and <a href="https://store.steampowered.com/app/1391070/Stallion_Squad">Stallion Squad</a>.
 	
