@@ -1,5 +1,17 @@
 <h1>Hey! I'm Pikalugia.</h1>
 
+<a href="https://www.instagram.com/pikalugiayt/">
+  <img align="left" alt="Pikalugia's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/e9qfHc4">
+  <img align="left" alt="Pikalugia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/pikalugia">
+  <img align="left" alt="Pikalugia's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/c/Pikalugia">
+  <img align="left" alt="Pikalugia's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
 <p>Welcome to my Github profile! I'm Pikalugia, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Norway</b>. I'm the creator of <a href="https://www.peekio.no">Peekio</a> and <a href="https://store.steampowered.com/app/1391070/Stallion_Squad">Stallion Squad</a>.
 	
