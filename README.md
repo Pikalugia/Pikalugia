@@ -13,6 +13,7 @@
   <img align="left" alt="Pikalugia's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+
 <p>Welcome to my Github profile! I'm Pikalugia, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Norway</b>. I'm the creator of <a href="https://www.peekio.no">Peekio</a> and <a href="https://store.steampowered.com/app/1391070/Stallion_Squad">Stallion Squad</a>.
 	
 Most of my work is done in <img src="https://cdn.discordapp.com/attachments/860582808790630431/1034938230572855427/ue4.png" width="13"/> <b>Unreal Engine</b> and <img src="https://cdn.discordapp.com/attachments/860582808790630431/1034938505123614800/as.png" width="13"/> <b>Android Studio</b>. </br>Very invested in APIs at the moment, check out <a href="https://www.peekio.no/api">my API work here</a>.
