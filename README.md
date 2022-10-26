@@ -1,13 +1,13 @@
 <h1>Hey! I'm Pikalugia.</h1>
 
 
-<p>Welcome to my Github profile! I'm Pikalugia, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Norway</b>.
+<p>Welcome to my Github profile! I'm Pikalugia, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Norway</b>. I usually work in <img src="https://cdn.discordapp.com/attachments/860582808790630431/1034938230572855427/ue4.png" width="13"/> <b>Unreal Engine</b> and <img src="https://cdn.discordapp.com/attachments/860582808790630431/1034938505123614800/as.png" width="13"/> <b>Android Studio</b>.
 
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🐴 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
