@@ -32,11 +32,11 @@ Most of my work is done in <img src="https://cdn.discordapp.com/attachments/8605
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Pikalugia/PenguinDinosaurGame"><b>Penguin Dinosaur Game</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pikalugia/PenguinDinosaurGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pikalugia/PenguinDinosaurGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Pikalugia/PenguinDinosaurGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pikalugia/PenguinDinosaurGame?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Pikalugia/Penguin-Jump"><b>Penguin Jump</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pikalugia/Penguin-Jump?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pikalugia/Penguin-Jump?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Pikalugia/Penguin-Jump?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pikalugia/Penguin-Jump?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/marjobtw/horsebot/"><b>Horsebot</b></a></td>
